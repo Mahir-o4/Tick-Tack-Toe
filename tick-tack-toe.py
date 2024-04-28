@@ -65,7 +65,7 @@ while True:
             break    
     elif board_complete(board):
         display(board)
-        print("\tIt's A Draw. LMAO!!!!")
+        print("\tIT'S A DRAW. LMAO!!!!")
         break
     else:
         display(board)
